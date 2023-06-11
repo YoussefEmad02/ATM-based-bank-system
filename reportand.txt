@@ -1,0 +1,22 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: and.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                            1         1         0    100.00
+    FEC Expression Terms             2         2         0    100.00
+    Toggle Bins                      6         6         0    100.00
+
+=================================================================================
+=== File: and_gate_tb.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                           81        81         0    100.00
+    Toggle Bins                    262       237        25     90.45
+
+
+Total Coverage By File (code coverage only, filtered view): 96.89%
+
